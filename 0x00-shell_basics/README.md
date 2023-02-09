@@ -10,3 +10,5 @@ script to delete non empty directory
 script deleting a file
 script to delete director
 script to change working directory to previous
+script to list contents
+
