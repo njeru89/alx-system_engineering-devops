@@ -1,1 +1,2 @@
-changing user
+changing use
+print effective username
