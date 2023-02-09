@@ -5,3 +5,4 @@ script that lists current directory contents in a long format
 script that display current directory contents, including hidden files
 script detailing contents of directory
 script for creating a directory inside a directory
+script for moving file to subdirectory
