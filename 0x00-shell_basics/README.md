@@ -13,3 +13,4 @@ script to change working directory to previous
 script to list contents
 script to show file type
 script for creating symbol
+script for html files
