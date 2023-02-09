@@ -6,3 +6,4 @@ script that display current directory contents, including hidden files
 script detailing contents of directory
 script for creating a directory inside a directory
 script for moving file to subdirectory
+script to delete non empty directory
