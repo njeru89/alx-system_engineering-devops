@@ -7,3 +7,4 @@ script detailing contents of directory
 script for creating a directory inside a directory
 script for moving file to subdirectory
 script to delete non empty directory
+script deleting a file
