@@ -9,3 +9,4 @@ create file
 add execute permission
 multiple permissions
 permissions to everybody
+permission to others only
