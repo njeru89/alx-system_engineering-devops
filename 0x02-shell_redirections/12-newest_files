@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lrt | head -11
+ls -lrt | find -type f | head  -10
