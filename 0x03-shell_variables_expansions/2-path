@@ -1,2 +1,2 @@
 #!/bin/bash
-\alx-system_engineering-devops\0x03-shell_variables_expansions\\action
+export PATH=${PATH}:/action:wq
